@@ -9,6 +9,7 @@
     "moduleResolution": "node"
   },
   "exclude": [
-    "dist"
+    "dist",
+    "**/*.test.ts"
   ]
 }
